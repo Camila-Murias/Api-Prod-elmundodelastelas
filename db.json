@@ -283,34 +283,6 @@
             "descripcion": "Base Friselina blanca - 0.13 espesor",
             "imagen": "./imagenes/Hogar/mantel_flores2.jpg",
             "precio": ""
-        },
-        {
-            "id":"h5",
-            "nombre": "Mantel Atérmico Gourmet",
-            "descripcion": "Base Friselina blanca - 0.13 espesor",
-            "imagen": "./imagenes/Hogar/mantel_gourmet.jpg",
-            "precio": ""
-        },
-        {
-            "id":"h6",
-            "nombre": "Mantel Atérmico Multifruta",
-            "descripcion": "Base Friselina blanca - 0.13 espesor",
-            "imagen": "./imagenes/Hogar/mantel_multifruta.jpg",
-            "precio": ""
-        },
-        {
-            "id":"h7",
-            "nombre": "Mantel Atérmico Panes",
-            "descripcion": "Base Friselina blanca - 0.13 espesor",
-            "imagen": "./imagenes/Hogar/mantel_panes.jpg",
-            "precio": ""
-        },
-        {
-            "id":"h8",
-            "nombre": "Mantel Atérmico París",
-            "descripcion": "Base Friselina blanca - 0.13 espesor",
-            "imagen": "./imagenes/Hogar/mantel_paris.jpg",
-            "precio": ""
-        }
+        } 
     ]
 }
