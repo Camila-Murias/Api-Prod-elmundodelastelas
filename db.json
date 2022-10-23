@@ -111,35 +111,7 @@
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/tapir_01.jpg",
             "precio": ""
-        },
-        {
-            "id":"a17",
-            "nombre": "Tapir Gris Medio (9704)",
-            "descripcion": "Importado - Base Jersey Algodón/Poliéster",
-            "imagen": "./imagenes/Automotor/tapir_04.jpg",
-            "precio": ""
-        },
-        {
-            "id":"a18",
-            "nombre": "Perforation Negro (5295)",
-            "descripcion": "Importado - Base Jersey Algodón",
-            "imagen": "./imagenes/Automotor/perfo_01.jpg",
-            "precio": ""
-        },
-        {
-            "id":"a19",
-            "nombre": "Perforation Rojo (5298)",
-            "descripcion": "Importado - Base Jersey Algodón/Poliéster",
-            "imagen": "./imagenes/Automotor/perfo_27.jpg",
-            "precio": ""
-        },
-        {
-            "id":"a20",
-            "nombre": "Colmena Negro (9399)",
-            "descripcion": "Importado - Base Jersey Algodón/Poliéster",
-            "imagen": "./imagenes/Automotor/colmeia_01.jpg",
-            "precio": ""
-        }
+        } 
     ],
     "muebles": [
         {
