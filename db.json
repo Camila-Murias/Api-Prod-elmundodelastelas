@@ -118,117 +118,138 @@
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/tapir_04.jpg",
             "precio": ""
+        },
+        {
+            "id":"a18",
+            "nombre": "Perforation Negro (5295)",
+            "descripcion": "Importado - Base Jersey Algodón",
+            "imagen": "./imagenes/Automotor/perfo_01.jpg",
+            "precio": ""
+        },
+        {
+            "id":"a19",
+            "nombre": "Perforation Rojo (5298)",
+            "descripcion": "Importado - Base Jersey Algodón/Poliéster",
+            "imagen": "./imagenes/Automotor/perfo_27.jpg",
+            "precio": ""
+        },
+        {
+            "id":"a20",
+            "nombre": "Colmena Negro (9399)",
+            "descripcion": "Importado - Base Jersey Algodón/Poliéster",
+            "imagen": "./imagenes/Automotor/colmeia_01.jpg",
+            "precio": ""
         }
     ],
     "muebles": [
         {
             "id":"m1",
-            "nombre": "Tapicería T@lampaya Negro (9999)",
+            "nombre": "Talampaya Negro (9999)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_negro.jpg",
             "precio": ""
         },
         {
             "id":"m2",
-            "nombre": "Tapicería T@lampaya Blanco (0001)",
+            "nombre": "Talampaya Blanco (0001)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_blanco.jpg",
             "precio": ""
         },
         {
             "id":"m3",
-            "nombre": "Tapicería T@lampaya Beige (6300)",
+            "nombre": "Talampaya Beige (6300)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_beige.jpg",
             "precio": ""
         },
         {
             "id":"m4",
-            "nombre": "Tapicería T@lampaya Manteca (6345)",
+            "nombre": "Talampaya Manteca (6345)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_manteca.jpg",
             "precio": ""
         },
         {
             "id":"m5",
-            "nombre": "Tapicería T@lampaya Hueso (6272)",
+            "nombre": "Talampaya Hueso (6272)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_palha.jpg",
             "precio": ""
         },
         {
             "id":"m6",
-            "nombre": "Tapicería T@lampaya Beige Estampado (6288)",
+            "nombre": "Talampaya Beige Estampado (6288)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_best.jpg",
             "precio": ""
         },
         {
             "id":"m7",
-            "nombre": "Tapicería T@lampaya Chocolate (6294)",
+            "nombre": "Talampaya Chocolate (6294)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_choco.jpg",
             "precio": ""
         },
         {
             "id":"m8",
-            "nombre": "Tapicería T@lampaya Chocolate Estampado (6277)",
+            "nombre": "Talampaya Chocolate Estampado (6277)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_chest.jpg",
             "precio": ""
         },
         {
             "id":"m9",
-            "nombre": "Tapicería T@lampaya Naranja (0100)",
+            "nombre": "Talampaya Naranja (0100)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_naranja.jpg",
             "precio": ""
         },
         {
             "id":"m10",
-            "nombre": "Tapicería T@lampaya Rojo (6283)",
+            "nombre": "Talampaya Rojo (6283)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_rojo.jpg",
             "precio": ""
         },
         {
             "id":"m11",
-            "nombre": "Tapicería T@lampaya Rojo Oscuro (9639)",
+            "nombre": "Talampaya Rojo Oscuro (9639)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_rosc.jpg",
             "precio": ""
         },
         {
             "id":"m12",
-            "nombre": "Tapicería T@lampaya Bordó (9655)",
+            "nombre": "Talampaya Bordó (9655)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_bordo.jpg",
             "precio": ""
         },
         {
             "id":"m13",
-            "nombre": "Tapicería T@lampaya Gris Claro (7587)",
+            "nombre": "Talampaya Gris Claro (7587)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_eval.jpg",
             "precio": ""
         },
         {
             "id":"m14",
-            "nombre": "Tapicería T@lampaya Gris Oscuro (6305)",
+            "nombre": "Talampaya Gris Oscuro (6305)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_cinza.jpg",
             "precio": ""
         },
         {
             "id":"m15",
-            "nombre": "Tapicería T@lampaya Verde Agua (9629)",
+            "nombre": "Talampaya Verde Agua (9629)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_verde.jpg",
             "precio": ""
         },
         {
             "id":"m16",
-            "nombre": "Tapicería T@lampaya Azul Marino (0455)",
+            "nombre": "Talampaya Azul Marino (0455)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_marino.jpg",
             "precio": ""
@@ -237,30 +258,58 @@
     "hogar": [
         {
             "id":"h1",
-            "nombre": "CUERINA NAÚTICA",
-            "descripcion": "Tela para tapizado cuerina naútica.",
-            "imagen": "./imagenes/cuerina.jpg",
+            "nombre": "Mantel Atérmico Boteco",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_boteco.jpg",
             "precio": ""
         },
         {
             "id":"h2",
-            "nombre": "LINO ANTIMANCHAS",
-            "descripcion": "Lino antimanchas para mantel, línea central.",
-            "imagen": "./imagenes/linoamancha.JPG",
+            "nombre": "Mantel Atérmico Café",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_cafe.jpg",
             "precio": ""
         },
         {
             "id":"h3",
-            "nombre": "PANA PARÍS",
-            "descripcion": "Tela pana parís con diseño liso.",
-            "imagen": "./imagenes/panaparis.JPG",
+            "nombre": "Mantel Atérmico Flores Blanco",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_flores.jpg",
             "precio": ""
         },
         {
             "id":"h4",
-            "nombre": "BOXER",
-            "descripcion": "Tela rústica macchiato.",
-            "imagen": "./imagenes/rusticomacchiato.JPG",
+            "nombre": "Mantel Atérmico Flores Beige",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_flores2.jpg",
+            "precio": ""
+        },
+        {
+            "id":"h5",
+            "nombre": "Mantel Atérmico Gourmet",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_gourmet.jpg",
+            "precio": ""
+        },
+        {
+            "id":"h6",
+            "nombre": "Mantel Atérmico Multifruta",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_multifruta.jpg",
+            "precio": ""
+        },
+        {
+            "id":"h7",
+            "nombre": "Mantel Atérmico Panes",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_panes.jpg",
+            "precio": ""
+        },
+        {
+            "id":"h8",
+            "nombre": "Mantel Atérmico París",
+            "descripcion": "Base Friselina blanca - 0.13 espesor",
+            "imagen": "./imagenes/Hogar/mantel_paris.jpg",
             "precio": ""
         }
     ]
