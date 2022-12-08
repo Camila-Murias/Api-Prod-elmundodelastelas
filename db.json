@@ -5,112 +5,112 @@
             "nombre": "Balkana Negro (1601)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/balkana_01.jpg",
-            "precio": ""
+            "precio": "2046"
         },
         {
             "id":"a2",
             "nombre": "Balkana Blanco (1800)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/balkana_00.jpg",
-            "precio": ""
+            "precio": "2046"
         },
         {
             "id":"a3",
             "nombre": "Bisón Negro (1301)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/bison_01.jpg",
-            "precio": ""
+            "precio": "2611"
         },
         {
             "id":"a4",
             "nombre": "Bisón Gris Claro (1299)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/bison_99.jpg",
-            "precio": ""
+            "precio": "2611"
         },
         {
             "id":"a5",
             "nombre": "Bisón Gris Medio (1225)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/bison_25.jpg",
-            "precio": ""
+            "precio": "2611"
         },
         {
             "id":"a6",
             "nombre": "Bisón Azul Moto (1213)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/bison_13.jpg",
-            "precio": ""
+            "precio": "2611"
         },
         {
             "id":"a7",
             "nombre": "Bisón Rojo Moto (1227)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/bison_27.jpg",
-            "precio": ""
+            "precio": "2611"
         },
         {
             "id":"a8",
             "nombre": "Capri Negro (2801)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/capri_01.jpg",
-            "precio": ""
+            "precio": "2611"
         },
         {
             "id":"a9",
             "nombre": "Crinkle Negro (3401)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/crinkle_01.jpg",
-            "precio": ""
+            "precio": "1916"
         },
         {
             "id":"a10",
             "nombre": "Crinkle Gris Medio (3204)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/crinkle_04.jpg",
-            "precio": ""
+            "precio": "1916"
         },
         {
             "id":"a11",
             "nombre": "Napa Negro (2201)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/napa_01.jpg",
-            "precio": ""
+            "precio": "2044"
         },
         {
             "id":"a12",
             "nombre": "Piel Negro (0901)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/piel_01.jpg",
-            "precio": ""
+            "precio": "2295"
         },
         {
             "id":"a13",
             "nombre": "Piel Gris Claro (3799)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/piel_99.jpg",
-            "precio": ""
+            "precio": "2295"
         },
         {
             "id":"a14",
             "nombre": "Piel Gris Medio (0804)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/piel_04.jpg",
-            "precio": ""
+            "precio": "2295"
         },
         {
             "id":"a15",
             "nombre": "Rhino Negro (0601)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/rhino_01.jpg",
-            "precio": ""
+            "precio": "2295"
         },
         {
             "id":"a16",
             "nombre": "Tapir Negro (9701)",
             "descripcion": "Importado - Base Jersey Algodón/Poliéster",
             "imagen": "./imagenes/Automotor/tapir_01.jpg",
-            "precio": ""
+            "precio": "2295"
         } 
     ],
     "muebles": [
@@ -119,112 +119,112 @@
             "nombre": "Talampaya Negro (9999)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_negro.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m2",
             "nombre": "Talampaya Blanco (0001)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_blanco.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m3",
             "nombre": "Talampaya Beige (6300)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_beige.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m4",
             "nombre": "Talampaya Manteca (6345)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_manteca.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m5",
             "nombre": "Talampaya Hueso (6272)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_palha.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m6",
             "nombre": "Talampaya Beige Estampado (6288)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_best.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m7",
             "nombre": "Talampaya Chocolate (6294)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_choco.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m8",
             "nombre": "Talampaya Chocolate Estampado (6277)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_chest.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m9",
             "nombre": "Talampaya Naranja (0100)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_naranja.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m10",
             "nombre": "Talampaya Rojo (6283)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_rojo.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m11",
             "nombre": "Talampaya Rojo Oscuro (9639)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_rosc.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m12",
             "nombre": "Talampaya Bordó (9655)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_bordo.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m13",
             "nombre": "Talampaya Gris Claro (7587)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_eval.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m14",
             "nombre": "Talampaya Gris Oscuro (6305)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_cinza.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m15",
             "nombre": "Talampaya Verde Agua (9629)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_verde.jpg",
-            "precio": ""
+            "precio": "2168"
         },
         {
             "id":"m16",
             "nombre": "Talampaya Azul Marino (0455)",
             "descripcion": "Importado - Base Jersey Algodón",
             "imagen": "./imagenes/Muebles/tbr_marino.jpg",
-            "precio": ""
+            "precio": "2168"
         }
     ],
     "hogar": [
@@ -233,28 +233,28 @@
             "nombre": "Mantel Atérmico Boteco",
             "descripcion": "Base Friselina blanca - 0.13 espesor",
             "imagen": "./imagenes/Hogar/mantel_boteco.jpg",
-            "precio": ""
+            "precio": "1399"
         },
         {
             "id":"h2",
             "nombre": "Mantel Atérmico Café",
             "descripcion": "Base Friselina blanca - 0.13 espesor",
             "imagen": "./imagenes/Hogar/mantel_cafe.jpg",
-            "precio": ""
+            "precio": "1399"
         },
         {
             "id":"h3",
             "nombre": "Mantel Atérmico Flores Blanco",
             "descripcion": "Base Friselina blanca - 0.13 espesor",
             "imagen": "./imagenes/Hogar/mantel_flores.jpg",
-            "precio": ""
+            "precio": "1399"
         },
         {
             "id":"h4",
             "nombre": "Mantel Atérmico Flores Beige",
             "descripcion": "Base Friselina blanca - 0.13 espesor",
             "imagen": "./imagenes/Hogar/mantel_flores2.jpg",
-            "precio": ""
+            "precio": "1399"
         } 
     ]
 }
